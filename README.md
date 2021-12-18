@@ -2,7 +2,7 @@
 
 ![Video demonstrating movement](https://i.imgur.com/eCPEj69.gif)
 
-A simple demo of a raycast rendering engine similar to the 1992 Wolfenstein 3D engine. 
+A simple SDL2 demo of a raycast rendering engine similar to the 1992 Wolfenstein 3D engine. 
 
 ## Dependencies
 - Git
