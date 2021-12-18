@@ -8,7 +8,7 @@ Player::Player(Game* game, Vector2 initPosition)
     ,mPosition(initPosition)
     ,mAngle(0.0f)
     ,mSpeed(0.05f)
-    ,mRotateSpeed(0.04f)
+    ,mRotateSpeed(0.03f)
 {
 }
 
